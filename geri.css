@@ -38,7 +38,7 @@ header {
 }
 
 .GER {
-  font-family: .'Cormorant Upright';
+  font-family:'Cormorant Upright';
   font-style: normal;
   text-align: center;
   font-size: 20px;
@@ -251,7 +251,7 @@ button {
 
 .scroll p {
   font-family: 'Cormorant Upright';
-  font-wejhight: 700;
+  font-weight: 700;
   font-size: 16px;
   text-transform: uppercase;
   color: #d4c077;
@@ -263,7 +263,7 @@ button {
   background-color: #040404;
   /* max-height: 100vh; */
   height: 800px;
-.
+
 }
 
 
@@ -448,12 +448,6 @@ button {
   text-align: left;
   letter-spacing: 0.04em;
   color: #AAAAAA;
-
-}
-
-.wine ul {
-  /* height: 50%; */
-}
 
 .wine li {
   list-style: none;
@@ -1072,5 +1066,5 @@ footer {
   color: #AAAAAA;
   margin-left: 45%;
   margin-bottom: 30px;
-
+}
 }
