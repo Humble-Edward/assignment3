@@ -454,6 +454,11 @@ button {
   width: 100%;
 }
 
+
+.text4 img {
+  width: 30px;
+}
+
 .name4 {
   font-weight: 400;
   font-size: 30px;
