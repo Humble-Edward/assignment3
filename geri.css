@@ -496,8 +496,8 @@ button {
 }
 
 .sid6 {
-  margin-top: 5%;
-  margin-left: 5%;
+  margin-top: 8%;
+  margin-left: 8%;
   width: 9%;
 }
 
@@ -516,7 +516,7 @@ button {
 
 .awrd {
   font-weight: 700;
-  font-size: 20px;
+  font-size: 25px;
   line-height: 130%;
   letter-spacing: 0.04em;
 }
@@ -609,7 +609,7 @@ button {
 
 .IG {
   font-weight: 700;
-  font-size: 20px;
+  font-size: 25px;
   line-height: 130%;
   letter-spacing: 0.04em;
 }
@@ -635,6 +635,7 @@ button {
 .photos7 {
   display: flex;
   justify-content: space-between;
+  margin-right: 30px;
 }
 
 .button7 {
